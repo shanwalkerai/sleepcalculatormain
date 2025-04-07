@@ -1,0 +1,20 @@
+{
+  "name": "sleep-calculator-js",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.44.4",
+    "chart.js": "^4.4.1",
+    "flatpickr": "^4.6.13",
+    "quill": "^2.0.3"
+  },
+  "devDependencies": {
+    "vite": "^5.3.5"
+  }
+}

@@ -1,0 +1,2 @@
+# Rewrite rule for API functions
+/api/* /.netlify/functions/:splat 200
